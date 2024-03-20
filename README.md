@@ -1,2 +1,2 @@
-# puppeteer_prac
+# Puppeteer_prac
 simple example using puppeteer
